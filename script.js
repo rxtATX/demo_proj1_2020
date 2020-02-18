@@ -1,3 +1,7 @@
 console.log("This is loaded")
 
-console.log("Or is it?")
+
+var hello = alert("Hello World! DONT FORGET TO PULL then... PUSH!!!");
+=======
+alert("Or is it?");
+
