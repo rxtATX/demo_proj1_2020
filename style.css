@@ -4,4 +4,7 @@ p {
 
 h2 {
     color: orangered;
+    font-family: fantasy;
+    text-align: center;
+    border: 3px solid black;
 }
