@@ -1,5 +1,9 @@
+body {
+    font-family: "Poppins", "Open Sans", sans-serif;
+}
+
 p {
-    color: red;
+    color: lightcoral;
 }
 
 h2 {
